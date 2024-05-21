@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-21T12:20:23 IST" name="Suite" finished-at="2024-05-21T12:20:23 IST" duration-ms="78">
+  <suite started-at="2024-05-21T15:20:58 IST" name="Suite" finished-at="2024-05-21T15:20:58 IST" duration-ms="36">
     <groups>
     </groups>
-    <test started-at="2024-05-21T12:20:23 IST" name="Test" finished-at="2024-05-21T12:20:23 IST" duration-ms="78">
+    <test started-at="2024-05-21T15:20:58 IST" name="Test" finished-at="2024-05-21T15:20:58 IST" duration-ms="36">
+      <class name="pac1.CreateContactTest">
+        <test-method signature="createcontacttest()[pri:0, instance:pac1.CreateContactTest@78b729e6]" started-at="2024-05-21T15:20:58 IST" name="createcontacttest" finished-at="2024-05-21T15:20:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcontacttest -->
+        <test-method signature="modifycontacttest()[pri:0, instance:pac1.CreateContactTest@78b729e6]" started-at="2024-05-21T15:20:58 IST" name="modifycontacttest" finished-at="2024-05-21T15:20:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifycontacttest -->
+      </class> <!-- pac1.CreateContactTest -->
       <class name="pac2.CreateOrganizationTest">
-        <test-method signature="createorgtest()[pri:0, instance:pac2.CreateOrganizationTest@7fc229ab]" started-at="2024-05-21T12:20:23 IST" name="createorgtest" finished-at="2024-05-21T12:20:23 IST" duration-ms="7" status="PASS">
+        <test-method signature="createorgtest()[pri:0, instance:pac2.CreateOrganizationTest@1198b989]" started-at="2024-05-21T15:20:58 IST" name="createorgtest" finished-at="2024-05-21T15:20:58 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createorgtest -->
-        <test-method signature="modifyorgtest()[pri:0, instance:pac2.CreateOrganizationTest@7fc229ab]" started-at="2024-05-21T12:20:23 IST" name="modifyorgtest" finished-at="2024-05-21T12:20:23 IST" duration-ms="1" status="PASS">
+        <test-method signature="modifyorgtest()[pri:0, instance:pac2.CreateOrganizationTest@1198b989]" started-at="2024-05-21T15:20:58 IST" name="modifyorgtest" finished-at="2024-05-21T15:20:58 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- modifyorgtest -->
